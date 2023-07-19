@@ -1,0 +1,11 @@
+#sqlite3
+pandas
+#json
+requests
+figlet
+python-dotenv
+black
+mypy
+flake8
+pre-commit
+python-dotenv
